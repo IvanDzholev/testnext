@@ -1,3 +1,3 @@
-import { Inter, Lusitana } from 'next/font/google';
+import { Inter, lustiana } from 'next/font/google';
 export const inter = Inter({ subsets: ['latin'] });
-export const lustiana = Lusitana({subsets:['latin'], weight:['400', '700']})
+export const lustiana = lustiana({subsets:['latin'], weight:['400', '700']})
